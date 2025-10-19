@@ -118,6 +118,6 @@ TV -> lean_mass_kg
 Age -> 18-20
 
 
-
+Since I have so many datapoints, I should probably use a random forest
 
 
